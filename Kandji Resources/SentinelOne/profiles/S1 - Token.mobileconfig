@@ -12,7 +12,7 @@
                         <key>PayloadUUID</key>
                         <string>1908502B-DFFE-43A8-ABEC-E0830251CBF5</string>
                         <key>S1InstallRegistrationToken</key>
-                        <string>SITE OR GROUP TOKEN HERE</string>
+                        <string>eyJ1cmwiOiAiaHR0cHM6Ly9ldWNlMS1zd3ByZDYuc2VudGluZWxvbmUubmV0IiwgInNpdGVfa2V5IjogImIzNjlhMmUxNDZlMTUxZTAifQ==</string>
                 </dict>
         </array>
         <key>PayloadDescription</key>
